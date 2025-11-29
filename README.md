@@ -3,8 +3,6 @@
 
 - 🤝 I’m looking for **an internship**
 
-- 👨‍💻 You can take a look at my portfolio with this link [google.com](google.com)
-
 - 💬 I do speak **French and English**
 
 - 📫 How to reach me **vernetjaven@gmail.com**
