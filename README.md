@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Javen</h1>
+
 <h3 align="center">A passionate software developer from Montreal</h3>
 
 - 🤝 I’m looking for **an internship**
